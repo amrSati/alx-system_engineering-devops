@@ -1,2 +1,2 @@
-## Where am I?
->> A script that prints the apsolute path name of the current working directory.
+## Scripting
+>> A scripts for some linux bash commands
